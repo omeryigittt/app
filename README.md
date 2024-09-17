@@ -1,0 +1,1 @@
+git derleri öğrenmek için
